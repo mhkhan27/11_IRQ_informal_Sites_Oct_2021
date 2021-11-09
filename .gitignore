@@ -1,0 +1,18 @@
+#ignore files
+01_inputs/*
+02_outputs/*
+03_others/*
+03_GIS/*
+*.RData
+*.Rhistory
+*.html
+*.kml
+
+!/01_inputs/.gitkeep
+!/02_outputs/.gitkeep
+!/03_others/.gitkeep
+!/03_GIS/.gitkeep
+
+
+
+.Rproj.user
